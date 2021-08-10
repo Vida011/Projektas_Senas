@@ -7,8 +7,9 @@ class Puodukas {
 
     }
 }
-
+console.log(module);
 module.exports = {
     Puodukas
 };
+console.log(module);
     
